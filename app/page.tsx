@@ -335,14 +335,14 @@ export default function DadGenerator() {
         {/* Ca: Section */}
         <Card className="mt-8 border-4 border-stone-600 rounded-none bg-gradient-to-b from-blue-200 to-blue-300">
           <CardHeader className="bg-blue-600 text-white border-b-4 border-stone-600">
-            <CardTitle className="font-mono text-xl">Ca:</CardTitle>
+            <CardTitle className="font-mono text-xl">Ca:HRPQMkW19y6XfanbM872hMKaBKw2tonEp4drrwoQpump </CardTitle>
           </CardHeader>
         </Card>
 
         {/* Footer with X Logo */}
         <div className="mt-8 flex justify-center">
           <a
-            href="https://x.com"
+            href="https://x.com/i/communities/1933960480621535739/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center w-12 h-12 bg-black hover:bg-gray-800 text-white rounded-none border-4 border-stone-600 transition-colors duration-200"
