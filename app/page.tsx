@@ -335,7 +335,7 @@ export default function DadGenerator() {
         {/* Ca: Section */}
         <Card className="mt-8 border-4 border-stone-600 rounded-none bg-gradient-to-b from-blue-200 to-blue-300">
           <CardHeader className="bg-blue-600 text-white border-b-4 border-stone-600">
-            <CardTitle className="font-mono text-xl">Ca:HRPQMkW19y6XfanbM872hMKaBKw2tonEp4drrwoQpump </CardTitle>
+            <CardTitle className="font-mono text-xl">Ca: </CardTitle>
           </CardHeader>
         </Card>
 
